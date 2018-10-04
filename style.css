@@ -4,3 +4,12 @@ body {
 
 }
 
+section {
+    width: 100%;
+    height: 100vh;
+    background-image: url(city.jpeg);
+    background-color: #cccccc; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
